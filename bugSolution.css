@@ -1,0 +1,1 @@
+To fix the issue, use parentheses to explicitly control the order of operations within the `calc()` expression. This makes the calculation unambiguous and ensures the expected result.  For instance, if you want to add 50% and 20px, use `calc(50% + 20px)`. Using parentheses helps avoid unexpected behavior.

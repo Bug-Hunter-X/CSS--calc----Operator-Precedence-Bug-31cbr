@@ -1,0 +1,1 @@
+The CSS property `calc()` can sometimes produce unexpected results if you don't fully understand operator precedence. For example, if you try to calculate a width using percentages and pixels, the calculation might not work as you expect due to order of operations.  This can lead to elements having incorrect dimensions or overlapping unexpectedly.
